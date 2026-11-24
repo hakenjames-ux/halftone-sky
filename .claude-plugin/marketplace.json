@@ -1,0 +1,6 @@
+{
+  "name": "halftone-sky",
+  "owner": { "name": "hakenjames-ux" },
+  "description": "Halftone Sky, a royal-blue printed-sky theme for Claude Code.",
+  "plugins": [{ "name": "halftone-sky", "source": "./" }]
+}
